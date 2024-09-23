@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kaveesha kotelawala</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveeshakotelawala&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshakotelawala" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveeshakotelawala&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshakotelawala" /> </p>
 
 - 🌱 I’m currently learning **java and kotlin**
 
