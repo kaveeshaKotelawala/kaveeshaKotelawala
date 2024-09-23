@@ -1,4 +1,4 @@
-## Hi there👋, I'm Kaveesha Kotelawala ,an enthusiastic undergraduate student studying at Saegis Campus Nugegoda. passionate about web development.
+## Hi there👋, I'm Kaveesha Kotelawala
 
 <!--
 **kaveeshaKotelawala/kaveeshaKotelawala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
