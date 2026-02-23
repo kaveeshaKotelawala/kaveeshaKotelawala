@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveeshakotelawala&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshakotelawala" /> </p>
 
-- 🌱 I’m currently learning **java and kotlin**
-
+- 🌱 I'm an IT graduate with a strong passion for **software engineering** and **full-stack web development**.
+  
 - 📫 How to reach me **kaveeshakotelawala1999@gmail.com**
 
 - ⚡ Fun fact **kavee**
